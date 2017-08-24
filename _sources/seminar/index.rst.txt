@@ -1,0 +1,17 @@
+Seminar
+=======
+
+Once a month, the Berkeley GraphXD community gets together, socializes, and
+listens to an informal board presentation on open questions, new results,
+old results worth not forgetting, or whatever is fit to entertain
+a crowd of scientists, researchers, and theorists interested in graphs.
+At the the GraphXD Seminar, we do not believe in using slides, waiting until
+the end to ask questions, or stopping the speaker when he or she runs out of
+time.
+
+We meet 5:30--7:00 in Evans room 1011.
+
+.. toctree::
+   :maxdepth: 2
+
+   fall2017

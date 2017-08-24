@@ -1,0 +1,6 @@
+2018
+====
+
+`BIDS <https://bids.berkeley.edu>`_ will host an inaugural workshop in spring
+of 2018 (possibly March 26--28, 2018).
+The workshop will include speakers and participants from outside Berkeley.
