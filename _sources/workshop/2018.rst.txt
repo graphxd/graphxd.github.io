@@ -1,6 +1,23 @@
-2018
-====
+March 28--30, 2018
+==================
 
-`BIDS <https://bids.berkeley.edu>`_ will host an inaugural workshop in spring
-of 2018 (possibly March 26--28, 2018).
-The workshop will include speakers and participants from outside Berkeley.
+`BIDS <https://bids.berkeley.edu>`_ will host a three day inaugural workshop in
+the spring of 2018.
+
+Organizers
+----------
+
+- `K. Jarrod Millman <http://www.jarrodmillman.com/>`_
+  (Division of Biostatistics, UC Berkeley)
+- `Stéfan van der Walt <http://mentat.za.net/>`_
+  (Berkeley Institute of Data Science, UC Berkeley)
+- `Nelle Varoquaux <https://www.stat.berkeley.edu/~nelle/>`_
+  (Department of Statistics, UC Berkeley)
+
+Invited Participants
+--------------------
+
+- `Aric Hagberg <http://aric.hagberg.org/>`_
+  (Theoretical Division, Los Alamos National Laboratory)
+- `Dan Schult <http://www.colgate.edu/facultysearch/facultydirectory/dschult>`_
+  (Mathematics Department, Colgate University)
