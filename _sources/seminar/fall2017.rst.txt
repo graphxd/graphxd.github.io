@@ -20,4 +20,6 @@ TBD
 Thursday, November 30
 ---------------------
 
+`Somayeh Sojoudi <http://eecs.berkeley.edu/~sojoudi>`_
+(`EECS <https://eecs.berkeley.edu/>`_ and `Mechanical Engineering <http://www.me.berkeley.edu/>`_, UC Berkeley):
 TBD
