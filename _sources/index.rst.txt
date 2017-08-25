@@ -3,11 +3,10 @@ Graphs Across Domains
 
 GraphXD connects scientists, researchers, and theorists interested in graphs
 from a variety of fields.
-
 Inspired by `TextXD <https://bids.berkeley.edu/research/textxd>`_ and `ImageXD
-<https://bids.berkeley.edu/research/image-xd>`_, GraphXD is being led by
-fellows at UC Berkeley's Institute for Data Science (`BIDS
-<https://bids.berkeley.edu>`_), but is open to the campus community.
+<https://bids.berkeley.edu/research/image-xd>`_, GraphXD is organized by
+fellows at the `Berkeley Institute for Data Science (BIDS)
+<https://bids.berkeley.edu>`_ and is open to the campus community.
 
 .. toctree::
    :maxdepth: 1
