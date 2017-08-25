@@ -13,9 +13,19 @@ TBD
 Thursday, October 19
 --------------------
 
-`Nikhil Srivastava <https://math.berkeley.edu/~nikhil/>`_
-(`Mathematics <https://math.berkeley.edu/>`_, UC Berkeley):
-TBD
+|  **Spectral Sparsification of Graphs**
+|  `Nikhil Srivastava <https://math.berkeley.edu/~nikhil/>`_ (`Mathematics <https://math.berkeley.edu/>`_, UC Berkeley)
+
+Many important properties of an undirected graph manifest themselves spectrally
+in the eigenvalues or quadratic forms of matrices related to the graph. For
+instance, the connectivity structure, electrical properties, and random walk
+behavior of a graph are determined by its Laplacian matrix. A spectral
+sparsifier of a graph G is a sparse graph H on the same set of vertices such
+that the Laplacians of H and G are close, so that H captures the spectral
+behavior of G while being much cheaper to store and perform computations on. We
+survey a line of work showing that spectral sparsifiers with constant degree
+exist for every graph and can be computed efficiently.
+
 
 Thursday, November 30
 ---------------------
