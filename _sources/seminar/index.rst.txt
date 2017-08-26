@@ -1,10 +1,10 @@
 Seminar
 =======
 
-Once a month, the Berkeley GraphXD community gets together, socializes, and
-listens to an informal presentation on open questions, new results, old results
-worth remembering, or whatever is fit to entertain a crowd of scientists,
-researchers, and theorists interested in graphs.
+Once a month, the Berkeley GraphXD community gets together for an informal
+presentation on open questions, new results, old results worth remembering, or
+whatever is fit to entertain a crowd of scientists, researchers, and theorists
+interested in graphs.
 
 We meet 5:30--7:00 in Evans room 1011.
 
