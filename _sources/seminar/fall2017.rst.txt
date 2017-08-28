@@ -6,9 +6,13 @@ We meet 5:30--7:00 in Evans room 1011.
 Thursday, September 28 
 -----------------------
 
-`Tselil Schramm <https://people.eecs.berkeley.edu/~tschramm/>`_
-(`Simons Institute <https://simons.berkeley.edu/>`_, UC Berkeley):
-TBD
+| **Graph Clustering Algorithms**
+| `Tselil Schramm <https://people.eecs.berkeley.edu/~tschramm/>`_ (`Simons Institute <https://simons.berkeley.edu/>`_, UC Berkeley)
+
+One of the greatest advantages of representing data with graphs is access to
+generic algorithms for analytic tasks, such as clustering. In this talk I will
+describe some popular graph clustering algorithms, and explain why they are
+well-motivated from a theoretical perspective.
 
 Thursday, October 19
 --------------------
@@ -30,6 +34,7 @@ exist for every graph and can be computed efficiently.
 Thursday, November 30
 ---------------------
 
-`Somayeh Sojoudi <http://eecs.berkeley.edu/~sojoudi>`_
-(`EECS <https://eecs.berkeley.edu/>`_ and `Mechanical Engineering <http://www.me.berkeley.edu/>`_, UC Berkeley):
+| **TBD**
+| `Somayeh Sojoudi <http://eecs.berkeley.edu/~sojoudi>`_ (`EECS <https://eecs.berkeley.edu/>`_ and `Mechanical Engineering <http://www.me.berkeley.edu/>`_, UC Berkeley)
+
 TBD

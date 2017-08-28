@@ -3,6 +3,12 @@ March 27--29, 2018
 
 `BIDS <https://bids.berkeley.edu>`_ will host a three day inaugural workshop in
 the spring of 2018.
+Topics will include interesting **data** represented as graphs,
+graph **algorithms**, as well as **software** for creating, manipulating,
+and studying the structure, dynamics, and functions of complex networks.
+Depending on interest, we may also host a one day software bootcamp
+focused on Python and `NetworkX <http://networkx.github.io/>`_
+prior to the workshop.
 
 Organizers
 ----------
