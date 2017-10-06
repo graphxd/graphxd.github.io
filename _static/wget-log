@@ -1,0 +1,16 @@
+--2017-10-06 13:21:22--  https://www.google.com/webmasters/verification/verification-file-dl?hl=en
+Resolving www.google.com (www.google.com)... 216.58.194.196, 2607:f8b0:4005:805::2004
+Connecting to www.google.com (www.google.com)|216.58.194.196|:443... connected.
+HTTP request sent, awaiting response... 302 Moved Temporarily
+Location: https://accounts.google.com/ServiceLogin?service=sitemaps&passive=1209600&continue=https://www.google.com/webmasters/verification/verification-file-dl?hl%3Den&followup=https://www.google.com/webmasters/verification/verification-file-dl?hl%3Den&hl=en [following]
+--2017-10-06 13:21:23--  https://accounts.google.com/ServiceLogin?service=sitemaps&passive=1209600&continue=https://www.google.com/webmasters/verification/verification-file-dl?hl%3Den&followup=https://www.google.com/webmasters/verification/verification-file-dl?hl%3Den&hl=en
+Resolving accounts.google.com (accounts.google.com)... 216.58.195.77, 2607:f8b0:4005:807::200d
+Connecting to accounts.google.com (accounts.google.com)|216.58.195.77|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘verification-file-dl?hl=en’
+
+verification-file-dl?hl=en                               [<=>                                                                                                                    ]       0  --.-KB/s               verification-file-dl?hl=en                               [ <=>                                                                                                                   ]  54.67K  --.-KB/s    in 0.1s    
+
+2017-10-06 13:21:23 (451 KB/s) - ‘verification-file-dl?hl=en’ saved [55986]
+
