@@ -6,7 +6,7 @@ We meet 5:30--7:00 in Evans room 1011.
 Thursday, September 28 
 -----------------------
 
-| **Graph Clustering Algorithms** (:download:`slides <../pdfs/2017-09-28-schram.pdf>`)
+| **Graph Clustering Algorithms** (:download:`slides <../pdfs/2017-09-28-schram.pdf>` | `video <https://www.youtube.com/watch?v=-Afa1WI3iug&t=2s>`_)
 | `Tselil Schramm <https://people.eecs.berkeley.edu/~tschramm/>`_ (`Simons Institute <https://simons.berkeley.edu/>`_, UC Berkeley)
 
 One of the greatest advantages of representing data with graphs is access to
