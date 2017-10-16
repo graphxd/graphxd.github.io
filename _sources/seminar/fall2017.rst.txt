@@ -34,7 +34,22 @@ exist for every graph and can be computed efficiently.
 Thursday, November 30
 ---------------------
 
-| **TBD**
+| **Data-Driven Methods for Learning Sparse Graphical Models**
 | `Somayeh Sojoudi <http://eecs.berkeley.edu/~sojoudi>`_ (`EECS <https://eecs.berkeley.edu/>`_ and `Mechanical Engineering <http://www.me.berkeley.edu/>`_, UC Berkeley)
 
-TBD
+Learning models from data has a significant impact on many disciplines,
+including computer vision, medical imaging, social networks, neuroscience and
+signal processing. In the network inference problem, one may model the
+relationships between the network components through an underlying inverse
+covariance matrix. Learning this graphical model is often challenged by the
+fact that only a small number of samples are available. Despite the popularity
+of graphical lasso for solving this problem, there is not much known about the
+properties of this statistical method as an optimization algorithm. In this
+talk, we will develop new notions of sign-consistent matrices and
+inverse-consistent matrices to obtain key properties of graphical lasso. In
+particular, we will prove that although the complexity of solving graphical
+lasso is high, the sparsity pattern of its solution has a simple formula if a
+sparse graphical model is sought. Besides graphical lasso, there are several
+techniques for learning graphical models. We will design an optimization-based
+mathematical framework to study the performance of various techniques. We will
+illustrate our results in different case studies.
