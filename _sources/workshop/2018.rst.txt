@@ -23,6 +23,8 @@ Organizers
 Invited Participants
 --------------------
 
+- `Kimon Fountoulakis <http://www1.icsi.berkeley.edu/~kfount/>`_
+  (Department of Statistics and ICSI, UC Berkeley)
 - `Aric Hagberg <http://aric.hagberg.org/>`_
   (Theoretical Division, Los Alamos National Laboratory)
 - `Dan Schult <http://www.colgate.edu/facultysearch/facultydirectory/dschult>`_
