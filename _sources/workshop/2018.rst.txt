@@ -29,3 +29,5 @@ Invited Participants
   (Theoretical Division, Los Alamos National Laboratory)
 - `Dan Schult <http://www.colgate.edu/facultysearch/facultydirectory/dschult>`_
   (Mathematics Department, Colgate University)
+- `Camille Scott <http://www.camillescott.org/>`_
+  (Graduate Group in Computer Science, UC Davis)
