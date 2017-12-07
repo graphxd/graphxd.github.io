@@ -34,7 +34,7 @@ exist for every graph and can be computed efficiently.
 Thursday, November 30
 ---------------------
 
-| **Data-Driven Methods for Learning Sparse Graphical Models**
+| **Data-Driven Methods for Learning Sparse Graphical Models** (`video <https://www.youtube.com/watch?v=XeTWI0eCUwU>`_) 
 | `Somayeh Sojoudi <http://eecs.berkeley.edu/~sojoudi>`_ (`EECS <https://eecs.berkeley.edu/>`_ and `Mechanical Engineering <http://www.me.berkeley.edu/>`_, UC Berkeley)
 
 Learning models from data has a significant impact on many disciplines,
