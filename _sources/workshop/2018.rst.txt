@@ -27,6 +27,8 @@ Invited Participants
   (Department of Statistics and ICSI, UC Berkeley)
 - `Aric Hagberg <http://aric.hagberg.org/>`_
   (Theoretical Division, Los Alamos National Laboratory)
+- `Rasmus Kyng <http://cs.yale.edu/homes/rjkyng/>`_
+  (Theory of Computation Group, Harvard University)
 - `Dan Schult <http://www.colgate.edu/facultysearch/facultydirectory/dschult>`_
   (Mathematics Department, Colgate University)
 - `Camille Scott <http://www.camillescott.org/>`_
