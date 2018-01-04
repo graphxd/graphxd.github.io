@@ -23,6 +23,8 @@ Organizers
 Invited Participants
 --------------------
 
+- `Carl Boettiger <https://www.carlboettiger.info/>`_
+  (Department of Environmental Science, Policy, and Management, UC Berkeley)
 - `Kimon Fountoulakis <http://www1.icsi.berkeley.edu/~kfount/>`_
   (Department of Statistics and ICSI, UC Berkeley)
 - `Aric Hagberg <http://aric.hagberg.org/>`_
@@ -33,3 +35,5 @@ Invited Participants
   (Mathematics Department, Colgate University)
 - `Camille Scott <http://www.camillescott.org/>`_
   (Graduate Group in Computer Science, UC Davis)
+- `Stella Yu <http://www.icsi.berkeley.edu/~stellayu>`_
+  (Computer Science, Vision Science, and ICSI Vision Group, UC Berkeley)
