@@ -35,5 +35,7 @@ Invited Participants
   (Mathematics Department, Colgate University)
 - `Camille Scott <http://www.camillescott.org/>`_
   (Graduate Group in Computer Science, UC Davis)
+- `Deborah Sunter <https://rael.berkeley.edu/people/deborah-sunter/>`_
+  (Energy & Resources Group, UC Berkeley)
 - `Stella Yu <http://www.icsi.berkeley.edu/~stellayu>`_
   (Computer Science, Vision Science, and ICSI Vision Group, UC Berkeley)
