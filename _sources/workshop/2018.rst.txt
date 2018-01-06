@@ -22,6 +22,10 @@ Invited Participants
 
 - `Carl Boettiger <https://www.carlboettiger.info/>`_
   (Department of Environmental Science, Policy, and Management, UC Berkeley)
+- `James Collins <http://jamesrco.github.io/>`_
+  (School of Oceanography, University of Washington)
+- `Rob Fatland <http://www.robfatland.net/>`_
+  (Research Computing, University of Washington)
 - `Kimon Fountoulakis <http://www1.icsi.berkeley.edu/~kfount/>`_
   (Department of Statistics and ICSI, UC Berkeley)
 - `Aric Hagberg <http://aric.hagberg.org/>`_
