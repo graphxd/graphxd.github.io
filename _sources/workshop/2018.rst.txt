@@ -30,8 +30,12 @@ Invited Participants
   (Department of Statistics and ICSI, UC Berkeley)
 - `Aric Hagberg <http://aric.hagberg.org/>`_
   (Theoretical Division, Los Alamos National Laboratory)
+- `Caigui Jiang <https://sites.google.com/site/kaustjiangcaigui/home>`_
+  (ICSI Vision Group, UC Berkeley)
 - `Rasmus Kyng <http://cs.yale.edu/homes/rjkyng/>`_
   (Theory of Computation Group, Harvard University)
+- `Lauren Ponisio <http://www.ponisiolab.com/>`_
+  (Department of Entomology, UC Riverside)
 - `Dan Schult <http://www.colgate.edu/facultysearch/facultydirectory/dschult>`_
   (Mathematics Department, Colgate University)
 - `Camille Scott <http://www.camillescott.org/>`_
