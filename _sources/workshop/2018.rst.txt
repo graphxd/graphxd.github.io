@@ -34,6 +34,8 @@ Invited Participants
   (ICSI Vision Group, UC Berkeley)
 - `Rasmus Kyng <http://cs.yale.edu/homes/rjkyng/>`_
   (Theory of Computation Group, Harvard University)
+- Rachel Lawrence
+  (Computer Science, UC Berkeley)
 - `Lauren Ponisio <http://www.ponisiolab.com/>`_
   (Department of Entomology, UC Riverside)
 - `Dan Schult <http://www.colgate.edu/facultysearch/facultydirectory/dschult>`_
