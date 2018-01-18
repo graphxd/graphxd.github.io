@@ -38,6 +38,8 @@ Invited Participants
   (Computer Science, UC Berkeley)
 - `Lauren Ponisio <http://www.ponisiolab.com/>`_
   (Department of Entomology, UC Riverside)
+- `Ludwig Schmidt <https://people.csail.mit.edu/ludwigs/>`_
+  (Computer Science, UC Berkeley)
 - `Dan Schult <http://www.colgate.edu/facultysearch/facultydirectory/dschult>`_
   (Mathematics Department, Colgate University)
 - `Camille Scott <http://www.camillescott.org/>`_
