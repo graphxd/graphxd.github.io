@@ -36,6 +36,8 @@ Invited Participants
   (Theory of Computation Group, Harvard University)
 - Rachel Lawrence
   (Computer Science, UC Berkeley)
+- `Theo McKenzie <https://math.berkeley.edu/~mckenzie/>`_
+  (Department of Mathematics, UC Berkeley)
 - `Lauren Ponisio <http://www.ponisiolab.com/>`_
   (Department of Entomology, UC Riverside)
 - `Ludwig Schmidt <https://people.csail.mit.edu/ludwigs/>`_
