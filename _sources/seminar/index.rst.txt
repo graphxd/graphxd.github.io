@@ -6,7 +6,7 @@ presentation on open questions, new results, old results worth remembering, or
 whatever is fit to entertain a crowd of scientists, researchers, and theorists
 interested in graphs.
 
-We meet 5:30--7:00 in Evans room 1011.
+We meet 4:00--5:30 in Evans room 1011.
 
 .. toctree::
    :maxdepth: 2
