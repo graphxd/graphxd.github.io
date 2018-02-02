@@ -11,4 +11,5 @@ We meet 5:30--7:00 in Evans room 1011.
 .. toctree::
    :maxdepth: 2
 
+   spring2018
    fall2017
