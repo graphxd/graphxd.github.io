@@ -42,6 +42,8 @@ Invited Participants
   (Natural Resources and the Environment, University of Arizona)
 - `Lauren Ponisio <http://www.ponisiolab.com/>`_
   (Department of Entomology, UC Riverside)
+- `Aaron Schild <https://people.eecs.berkeley.edu/~aschild/>`_
+  (Computer Science, UC Berkeley)
 - `Ludwig Schmidt <https://people.csail.mit.edu/ludwigs/>`_
   (Computer Science, UC Berkeley)
 - `Dan Schult <http://www.colgate.edu/facultysearch/facultydirectory/dschult>`_
