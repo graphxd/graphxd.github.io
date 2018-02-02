@@ -38,6 +38,8 @@ Invited Participants
   (Computer Science, UC Berkeley)
 - `Theo McKenzie <https://math.berkeley.edu/~mckenzie/>`_
   (Department of Mathematics, UC Berkeley)
+- `Dmitriy Morozov <http://www.mrzv.org/>`_
+  (Data Analysis and Visualization, Lawrence Berkeley National Lab)
 - `Erica Newman <https://ericanewmanecology.wordpress.com/>`_
   (Natural Resources and the Environment, University of Arizona)
 - `Lauren Ponisio <http://www.ponisiolab.com/>`_
