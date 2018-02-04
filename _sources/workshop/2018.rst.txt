@@ -42,8 +42,12 @@ Invited Participants
   (Department of Mathematics, UC Berkeley)
 - `Dmitriy Morozov <http://www.mrzv.org/>`_
   (Data Analysis and Visualization, Lawrence Berkeley National Laboratory)
+- `Rajarshi Mukherjee <https://www.ocf.berkeley.edu/~rajarshi/>`_
+  (Division of Biostatistics, UC Berkeley)
 - `Erica Newman <https://ericanewmanecology.wordpress.com/>`_
   (Natural Resources and the Environment, University of Arizona)
+- `M Pacer <https://mpacer.org/>`_
+  (Berkeley Institute of Data Science, UC Berkeley)
 - `Lauren Ponisio <http://www.ponisiolab.com/>`_
   (Department of Entomology, UC Riverside)
 - `Aaron Schild <https://people.eecs.berkeley.edu/~aschild/>`_
