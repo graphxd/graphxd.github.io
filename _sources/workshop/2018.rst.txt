@@ -20,6 +20,8 @@ Organizers
 Invited Participants
 --------------------
 
+- Katelyn Arnemann
+  (Neuroscience, UC Berkeley)
 - `Carl Boettiger <https://www.carlboettiger.info/>`_
   (Department of Environmental Science, Policy, and Management, UC Berkeley)
 - `Aydın Buluç <https://people.eecs.berkeley.edu/~aydin/>`_
@@ -34,7 +36,7 @@ Invited Participants
   (Theoretical Division, Los Alamos National Laboratory)
 - `Caigui Jiang <https://sites.google.com/site/kaustjiangcaigui/home>`_
   (ICSI Vision Group, UC Berkeley)
-- `Rasmus Kyng <http://cs.yale.edu/homes/rjkyng/>`_
+- `Rasmus Kyng <http://rasmuskyng.com/>`_
   (Theory of Computation Group, Harvard University)
 - Rachel Lawrence
   (Computer Science, UC Berkeley)
