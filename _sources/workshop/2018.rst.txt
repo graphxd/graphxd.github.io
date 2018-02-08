@@ -20,7 +20,7 @@ Organizers
 Invited Participants
 --------------------
 
-- Katelyn Arnemann
+- `Katelyn Arnemann <https://klarnemann.github.io/>`_
   (Neuroscience, UC Berkeley)
 - `Carl Boettiger <https://www.carlboettiger.info/>`_
   (Department of Environmental Science, Policy, and Management, UC Berkeley)
