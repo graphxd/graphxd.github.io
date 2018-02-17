@@ -11,11 +11,11 @@ Organizers
 ----------
 
 - `K. Jarrod Millman <http://www.jarrodmillman.com/>`_
-  (Division of Biostatistics, UC Berkeley)
+  (Biostatistics, UC Berkeley)
 - `Stéfan van der Walt <http://mentat.za.net/>`_
   (Berkeley Institute of Data Science, UC Berkeley)
 - `Nelle Varoquaux <https://www.stat.berkeley.edu/~nelle/>`_
-  (Department of Statistics, UC Berkeley)
+  (Statistics, UC Berkeley)
 
 Invited Participants
 --------------------
@@ -23,44 +23,46 @@ Invited Participants
 - `Katelyn Arnemann <https://klarnemann.github.io/>`_
   (Neuroscience, UC Berkeley)
 - `Carl Boettiger <https://www.carlboettiger.info/>`_
-  (Department of Environmental Science, Policy, and Management, UC Berkeley)
+  (Environmental Science, Policy, and Management, UC Berkeley)
 - `Aydın Buluç <https://people.eecs.berkeley.edu/~aydin/>`_
   (Computational Research Division, Lawrence Berkeley National Laboratory)
 - `James Collins <http://jamesrco.github.io/>`_
-  (School of Oceanography, University of Washington)
+  (Oceanography, University of Washington)
 - `Rob Fatland <http://www.robfatland.net/>`_
   (Research Computing, University of Washington)
 - `Kimon Fountoulakis <http://www1.icsi.berkeley.edu/~kfount/>`_
-  (Department of Statistics and ICSI, UC Berkeley)
+  (Statistics and ICSI, UC Berkeley)
 - `Aric Hagberg <http://aric.hagberg.org/>`_
   (Theoretical Division, Los Alamos National Laboratory)
+- `Chris Holdgraf <http://predictablynoisy.com/>`_
+  (Berkeley Institute of Data Science, UC Berkeley)
 - `Caigui Jiang <https://sites.google.com/site/kaustjiangcaigui/home>`_
   (ICSI Vision Group, UC Berkeley)
 - `Rasmus Kyng <http://rasmuskyng.com/>`_
-  (Theory of Computation Group, Harvard University)
+  (Theory of Computation, Harvard University)
 - Rachel Lawrence
   (Computer Science, UC Berkeley)
 - `Theo McKenzie <https://math.berkeley.edu/~mckenzie/>`_
-  (Department of Mathematics, UC Berkeley)
+  (Mathematics, UC Berkeley)
 - `Dmitriy Morozov <http://www.mrzv.org/>`_
   (Data Analysis and Visualization, Lawrence Berkeley National Laboratory)
 - `Rajarshi Mukherjee <https://www.ocf.berkeley.edu/~rajarshi/>`_
-  (Division of Biostatistics, UC Berkeley)
+  (Biostatistics, UC Berkeley)
 - `Erica Newman <https://ericanewmanecology.wordpress.com/>`_
   (Natural Resources and the Environment, University of Arizona)
 - `M Pacer <https://mpacer.org/>`_
   (Berkeley Institute of Data Science, UC Berkeley)
 - `Lauren Ponisio <http://www.ponisiolab.com/>`_
-  (Department of Entomology, UC Riverside)
+  (Entomology, UC Riverside)
 - `Aaron Schild <https://people.eecs.berkeley.edu/~aschild/>`_
   (Computer Science, UC Berkeley)
 - `Ludwig Schmidt <https://people.csail.mit.edu/ludwigs/>`_
   (Computer Science, UC Berkeley)
 - `Dan Schult <http://www.colgate.edu/facultysearch/facultydirectory/dschult>`_
-  (Mathematics Department, Colgate University)
+  (Mathematics, Colgate University)
 - `Camille Scott <http://www.camillescott.org/>`_
-  (Graduate Group in Computer Science, UC Davis)
+  (Computer Science, UC Davis)
 - `Deborah Sunter <https://rael.berkeley.edu/people/deborah-sunter/>`_
-  (Energy & Resources Group, UC Berkeley)
+  (Energy and Resources, UC Berkeley)
 - `Stella Yu <http://www.icsi.berkeley.edu/~stellayu>`_
   (Computer Science, Vision Science, and ICSI Vision Group, UC Berkeley)
