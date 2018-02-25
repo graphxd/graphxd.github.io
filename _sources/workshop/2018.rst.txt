@@ -48,6 +48,8 @@ Invited Participants
   (Data Analysis and Visualization, Lawrence Berkeley National Laboratory)
 - `Rajarshi Mukherjee <https://www.ocf.berkeley.edu/~rajarshi/>`_
   (Biostatistics, UC Berkeley)
+- `Soumendu Mukherjee <https://www.stat.berkeley.edu/~soumendu/>`_
+  (Statistics, UC Berkeley)
 - `Erica Newman <https://ericanewmanecology.wordpress.com/>`_
   (Natural Resources and the Environment, University of Arizona)
 - `M Pacer <https://mpacer.org/>`_
