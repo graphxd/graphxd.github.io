@@ -27,8 +27,8 @@ also propel our understanding of ecological interactions forward.
 
 .. _newman:
 
-Ecology talk
-------------
+Incomplete sampling of ecological networks
+------------------------------------------
 
 | **Erica Newman**
 
