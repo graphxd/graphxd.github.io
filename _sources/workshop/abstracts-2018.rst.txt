@@ -35,10 +35,26 @@ Incomplete sampling of ecological networks
 TBD
 
 
+.. _mckenzie:
+
+A history of spectral graph theory and its applications, part I
+---------------------------------------------------------------
+
+| **Theo McKenzie**
+
+Spectral graph theory gives an expression of the combinatorial properties of a
+graph using the eigenvalues and eigenvectors of matrices associated with the
+graph. These ideas were first introduced in the late 80s in order to prove
+Cheeger's inequality for finding a sparse cut. The utility of spectral graph
+theory eventually stretched to Laplacian systems for solving linear equations.
+Implementing graph sparsification gives us the ability to do this quickly. In
+this talk we will describe the introduction of the Laplacian matrix and its use
+in these areas.
+
 .. _schild:
 
-A brief history of graph algorithms using spectral graph theory, part I
------------------------------------------------------------------------
+A history of spectral graph theory and its applications, part II
+----------------------------------------------------------------
 
 | **Aaron Schild**
 
@@ -49,19 +65,9 @@ spectrum of the Laplacian matrix with fast Laplacian solvers. To obtain fast
 Laplacian solvers, we needed to sparsify graphs, for which we exploited
 concentration phenomena of random matrices. In the 2010s, improvements to these
 tools led to improvements on a wide variety of problems, like maximum flow,
-travelling salesman (both symmetric and asymetric), and random spanning tree
+travelling salesman (both symmetric and asymmetric), and random spanning tree
 generation. In this talk, we briefly survey this chain of events and suggest
 some future directions.
-
-
-.. _mckenzie:
-
-A brief history of graph algorithms using spectral graph theory, part II
-------------------------------------------------------------------------
-
-| **Theo McKenzie**
-
-TBD
 
 
 .. _hagberg:
