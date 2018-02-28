@@ -126,16 +126,6 @@ Assembly graphs
 TBD
 
 
-.. _fountoulakis:
-
-Local graph clustering and methods
-----------------------------------
-
-| **Kimon Fountoulakis**
-
-TBD
-
-
 .. _kyng:
 
 How to Solve Problems on Graphs Using Linear Equations, and How to Solve Linear Equations Using Graphs
@@ -159,6 +149,16 @@ equations. We will also see how thinking about these linear equations in terms
 of graphs will let us develop very efficient algorithms for solving them.
 Finally, we will explore ideas that have recently played a role in making
 solvers for these linear equations more practical. 
+
+
+.. _fountoulakis:
+
+Local graph clustering and methods
+----------------------------------
+
+| **Kimon Fountoulakis**
+
+TBD
 
 
 .. _schmidt:
