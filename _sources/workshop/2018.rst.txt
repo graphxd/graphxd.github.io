@@ -66,5 +66,7 @@ Invited Participants
   (Computer Science, UC Davis)
 - `Deborah Sunter <https://rael.berkeley.edu/people/deborah-sunter/>`_
   (Energy and Resources, UC Berkeley)
+- `Chris Warner <https://redwood.berkeley.edu/people/chris-warner/>`_
+  (Biophysics, UC Berkeley)
 - `Stella Yu <http://www.icsi.berkeley.edu/~stellayu>`_
   (Computer Science, Vision Science, and ICSI Vision Group, UC Berkeley)
