@@ -108,12 +108,20 @@ TBD
 
 .. _arnemann:
 
-Functional brain networks
--------------------------
+Challenges for graph theory in human neuroscience
+-------------------------------------------------
 
 | **Katelyn Arnemann**
 
-TBD
+Graph theory has been applied widely to studies of the human brain, advancing
+understanding of cognition and neurological diseases. However, the application
+of graph theory to human neuroscience faces many challenges. We will briefly
+overview examples of the motivation for and insights enabled by modeling the
+brain as a graph. We will then explore challenges for graph theory in human
+neuroscience, including challenges with defining the elements of the graphs,
+comparing graphs, and calculating and computing informative graph properties.
+Examples will be drawn from my work applying graph theory to neuroimaging (MRI
+and PET) to study human aging and Alzheimer's disease.
 
 
 .. _scott:
