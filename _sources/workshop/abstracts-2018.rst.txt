@@ -156,12 +156,19 @@ and PET) to study human aging and Alzheimer's disease.
 
 .. _scott:
 
-Assembly graphs
----------------
+Sequence Assembly Graphs and their Construction
+-----------------------------------------------
 
 | **Camille Scott**
 
-TBD
+The advent of shotgun sequencing of DNA and RNA created the need for more
+efficient methods of simplifying massive and redundant string data. Assembly
+graphs have become a core abstraction for detecting overlaps between sequenced
+fragments, interrogating complete sequencing experiments from one or many
+individuals or even species, and succinctly encoding this information in a
+principled way. In this talk, I will cover some of the current approaches for
+constructing and using assembly graphs, and discuss efforts to move assembly
+graph construction into a streaming paradigm.
 
 
 .. _kyng:
