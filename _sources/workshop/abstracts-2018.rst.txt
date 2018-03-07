@@ -219,9 +219,20 @@ algorithms for processing today's large graphs.
 
 .. _schmidt:
 
-Graphs in linear regression problems
-------------------------------------
+Linear Regression with Graph Constraints
+----------------------------------------
 
 | **Ludwig Schmidt**
 
-TBD
+Linear regression is one of the core tools in data analysis. Over the past
+decade, we have seen significant progress by incorporating prior knowledge such
+as sparsity, low rank, or group structures that allow us to achieve higher
+accuracy and more interpretable solutions. However, the resulting estimators
+also become more challenging algorithmic problems which can be an obstacle to
+adoption in practice. In this talk, I will give an overview of linear
+regression with graph constraints that arise in settings such as biological
+network analysis. On the statistical side, we will see that graph constraints
+can offer significantly smaller sample complexity. On the computational side, I
+will present an algorithm that incorporates graph structure into linear
+regression with little overhead. The algorithm runs in nearly-linear time,
+i.e., fast enough so that it is applicable to large graphs.
