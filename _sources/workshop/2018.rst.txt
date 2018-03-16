@@ -24,10 +24,12 @@ Invited Participants
   (Neuroscience, UC Berkeley)
 - `Carl Boettiger <https://www.carlboettiger.info/>`_
   (Environmental Science, Policy, and Management, UC Berkeley)
+- `Seth Bromberger <http://www.bromberger.com/>`_
+  (Network and Systems Security, Lawrence Livermore National Laboratory)
 - `Aydın Buluç <https://people.eecs.berkeley.edu/~aydin/>`_
   (Computational Research Division, Lawrence Berkeley National Laboratory)
-- `James Collins <http://jamesrco.github.io/>`_
-  (Oceanography, University of Washington)
+- `Thomas Caswell <https://www.researchgate.net/profile/Thomas_Caswell>`_
+  (National Synchrotron Light Source II, Brookhaven National Laboratory)
 - `Rob Fatland <http://www.robfatland.net/>`_
   (Research Computing, University of Washington)
 - `Kimon Fountoulakis <http://www1.icsi.berkeley.edu/~kfount/>`_

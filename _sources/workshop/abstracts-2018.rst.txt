@@ -2,6 +2,16 @@ Abstracts
 =========
 
 
+.. _millman:
+
+Complex networks and graphs across domains
+------------------------------------------
+
+| **K. Jarrod Millman**
+
+TBD
+
+
 .. _ponisio:
 
 Understanding the ecology and evolution of communities through networks
@@ -124,16 +134,6 @@ to genome assembly. In this talk, I will give a short overview on the
 characteristics of the graphs that arise in key computational genomics tasks as
 well as the fundamental algorithmic questions that are addressed using those
 graphs.
-
-
-.. _varoquaux:
-
-Computational biology
----------------------
-
-| **Nelle Varoquaux**
-
-TBD
 
 
 .. _arnemann:
