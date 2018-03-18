@@ -7,6 +7,8 @@ Topics will include interesting **data** represented as graphs,
 graph **algorithms**, as well as **software** for creating, manipulating,
 and studying the structure, dynamics, and functions of complex networks.
 
+`Directions to BIDS <https://bids.berkeley.edu/about/directions-and-travel>`_
+
 Organizers
 ----------
 

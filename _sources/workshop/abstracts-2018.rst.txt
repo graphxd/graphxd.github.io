@@ -4,13 +4,19 @@ Abstracts
 
 .. _millman:
 
-Complex networks and graphs across domains
+Graphs and complex networks across domains
 ------------------------------------------
 
 | **K. Jarrod Millman**
 
-TBD
-
+Graphs arise in many fields.
+Progress in understanding graphs and developing new graph algorithms in a
+number of diverse fields is hindered by the fact that researchers who use them
+typically don’t have the opportunity to communicate with others who work on
+similar problems in different domains.
+In this talk, I will
+(a) briefly define what we mean by a graph or complex network  and
+(b) outline the purpose and goals for this workshop.
 
 .. _ponisio:
 
