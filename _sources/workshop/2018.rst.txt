@@ -36,6 +36,8 @@ Invited Participants
   (Research Computing, University of Washington)
 - `Kimon Fountoulakis <http://www1.icsi.berkeley.edu/~kfount/>`_
   (Statistics and ICSI, UC Berkeley)
+- `Marília Palumbo Gaiarsa <https://mariliagaiarsa.weebly.com/>`_
+  (Entomology, UC Riverside)
 - `Aric Hagberg <http://aric.hagberg.org/>`_
   (Theoretical Division, Los Alamos National Laboratory)
 - `Chris Holdgraf <http://predictablynoisy.com/>`_
