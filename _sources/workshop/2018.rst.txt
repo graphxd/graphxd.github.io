@@ -30,8 +30,6 @@ Invited Participants
   (Critical Infrastructure Security, Lawrence Livermore National Laboratory)
 - `Aydın Buluç <https://people.eecs.berkeley.edu/~aydin/>`_
   (Computational Research Division, Lawrence Berkeley National Laboratory)
-- `Charlotte Mazel-Cabasse <https://bids.berkeley.edu/people/charlotte-cabasse>`_
-  (Berkeley Institute of Data Science, UC Berkeley)
 - `Thomas Caswell <https://www.researchgate.net/profile/Thomas_Caswell>`_
   (National Synchrotron Light Source II, Brookhaven National Laboratory)
 - `Rob Fatland <http://www.robfatland.net/>`_
@@ -48,6 +46,8 @@ Invited Participants
   (Theory of Computation, Harvard University)
 - Rachel Lawrence
   (Computer Science, UC Berkeley)
+- `Charlotte Mazel-Cabasse <https://bids.berkeley.edu/people/charlotte-cabasse>`_
+  (Berkeley Institute of Data Science, UC Berkeley)
 - `Dmitriy Morozov <http://www.mrzv.org/>`_
   (Data Analysis and Visualization, Lawrence Berkeley National Laboratory)
 - `Rajarshi Mukherjee <https://www.ocf.berkeley.edu/~rajarshi/>`_
