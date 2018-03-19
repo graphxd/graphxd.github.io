@@ -81,12 +81,12 @@ respectively, are provided for use in further explorations of network structure
 and comparisons to real interaction networks.
 
 
-.. _mckenzie:
+.. _ryder:
 
 A history of spectral graph theory and its applications, part I
 ---------------------------------------------------------------
 
-| **Theo McKenzie**
+| **Nick Ryder**
 
 Spectral graph theory gives an expression of the combinatorial properties of a
 graph using the eigenvalues and eigenvectors of matrices associated with the
@@ -131,7 +131,7 @@ TBD
 Graph abstractions in computational genomics
 --------------------------------------------
 
-| **Aydin Buluc**
+| **Aydın Buluç**
 
 Relationships among entities in genomics, such as proteins, DNA sequences, or
 genetics markers, are often represented as graphs. Graph abstraction helped
