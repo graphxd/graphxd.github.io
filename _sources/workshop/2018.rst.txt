@@ -74,6 +74,8 @@ Invited Participants
   (Computer Science, UC Davis)
 - `Deborah Sunter <https://rael.berkeley.edu/people/deborah-sunter/>`_
   (Energy and Resources, UC Berkeley)
+- `Daniela Ushizima <http://vis.lbl.gov/~daniela/>`_
+  (Computational Research Division, Lawrence Berkeley National Laboratory)
 - `Chris Warner <https://redwood.berkeley.edu/people/chris-warner/>`_
   (Biophysics, UC Berkeley)
 - `Stella Yu <http://www.icsi.berkeley.edu/~stellayu>`_
