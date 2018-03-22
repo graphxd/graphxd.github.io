@@ -76,6 +76,8 @@ Invited Participants
   (Energy and Resources, UC Berkeley)
 - `Daniela Ushizima <http://vis.lbl.gov/~daniela/>`_
   (Computational Research Division, Lawrence Berkeley National Laboratory)
+- `Maryam Vareth <https://bids.berkeley.edu/people/maryam-vareth>`_
+  (Radiology and Biomedical Imaging, UC San Francisco)
 - `Chris Warner <https://redwood.berkeley.edu/people/chris-warner/>`_
   (Biophysics, UC Berkeley)
 - `Stella Yu <http://www.icsi.berkeley.edu/~stellayu>`_
