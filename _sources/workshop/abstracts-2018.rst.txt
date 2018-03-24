@@ -160,6 +160,27 @@ Examples will be drawn from my work applying graph theory to neuroimaging (MRI
 and PET) to study human aging and Alzheimer's disease.
 
 
+.. _fountoulakis:
+
+Variational Perspective on Local Graph Clustering
+-------------------------------------------------
+
+| **Kimon Fountoulakis**
+
+Local spectral methods such as the Approximate Personalized PageRank (APPR)
+algorithm have proven to be a powerful tool for the analysis of large data
+graphs.  They are defined operationally, and while they come with strong
+theory, there is no a priori notion of objective function/optimality condition
+that characterizes the steps taken by them.  Here, we derive a novel
+variational formulation which makes explicit the actual optimization problem
+solved by the APPR algorithm.  In doing so, we draw connections between APPR
+and a popular iterative shrinkage-thresholding algorithm (ISTA).  This
+viewpoint between APPR and ISTA builds a bridge across two seemingly disjoint
+fields of graph processing and numerical optimization, and it allows one to
+leverage well-studied, numerically robust, and efficient optimization
+algorithms for processing today's large graphs.
+
+
 .. _scott:
 
 Sequence Assembly Graphs and their Construction
@@ -200,27 +221,6 @@ equations. We will also see how thinking about these linear equations in terms
 of graphs will let us develop very efficient algorithms for solving them.
 Finally, we will explore ideas that have recently played a role in making
 solvers for these linear equations more practical. 
-
-
-.. _fountoulakis:
-
-Variational Perspective on Local Graph Clustering
--------------------------------------------------
-
-| **Kimon Fountoulakis**
-
-Local spectral methods such as the Approximate Personalized PageRank (APPR)
-algorithm have proven to be a powerful tool for the analysis of large data
-graphs.  They are defined operationally, and while they come with strong
-theory, there is no a priori notion of objective function/optimality condition
-that characterizes the steps taken by them.  Here, we derive a novel
-variational formulation which makes explicit the actual optimization problem
-solved by the APPR algorithm.  In doing so, we draw connections between APPR
-and a popular iterative shrinkage-thresholding algorithm (ISTA).  This
-viewpoint between APPR and ISTA builds a bridge across two seemingly disjoint
-fields of graph processing and numerical optimization, and it allows one to
-leverage well-studied, numerically robust, and efficient optimization
-algorithms for processing today's large graphs.
 
 
 .. _schmidt:
