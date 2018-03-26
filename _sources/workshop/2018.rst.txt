@@ -49,6 +49,8 @@ Invited Participants
   (Theory of Computation, Harvard University)
 - Rachel Lawrence
   (Computer Science, UC Berkeley)
+- Mike MacNeil
+  (Data Analysis and Visualization, Lawrence Berkeley National Laboratory)
 - `Charlotte Mazel-Cabasse <https://bids.berkeley.edu/people/charlotte-cabasse>`_
   (Berkeley Institute of Data Science, UC Berkeley)
 - `Dmitriy Morozov <http://www.mrzv.org/>`_
