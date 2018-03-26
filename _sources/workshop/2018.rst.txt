@@ -61,8 +61,6 @@ Invited Participants
   (Statistics, UC Berkeley)
 - Russell Neches
   (Biochemistry & Biophysics, UC San Francisco)
-- `Erica Newman <https://ericanewmanecology.wordpress.com/>`_
-  (Natural Resources and the Environment, University of Arizona)
 - `M Pacer <https://mpacer.org/>`_
   (Berkeley Institute of Data Science, UC Berkeley)
 - `Lauren Ponisio <http://www.ponisiolab.com/>`_
