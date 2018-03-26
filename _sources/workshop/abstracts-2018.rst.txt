@@ -118,12 +118,17 @@ some future directions.
 
 .. _hagberg:
 
-Connecting graph data, algorithms, and software
------------------------------------------------
+Exploring network structure, dynamics, and function using NetworkX
+------------------------------------------------------------------
 
 | **Aric Hagberg**
 
-TBD
+NetworkX is a software tool for network science.  I'll tell the previously
+untold story of how the software project started at Los Alamos and describe the
+original design goals.   The software scope was driven by research applications
+such as disease spread, cybersecurity, and measuring scholarly impact.  I'll
+describe these applications and the algorithms and analysis that were developed
+to support them.
 
 
 .. _buluc:
