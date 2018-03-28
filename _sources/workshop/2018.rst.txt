@@ -35,14 +35,17 @@ Invited Participants
   (National Synchrotron Light Source II, Brookhaven National Laboratory)
 - `Rob Fatland <http://www.robfatland.net/>`_
   (Research Computing, University of Washington)
+-  Jessica Forde (Jupyter)
 - `Kimon Fountoulakis <http://www1.icsi.berkeley.edu/~kfount/>`_
   (Statistics and ICSI, UC Berkeley)
 - `Marília Palumbo Gaiarsa <https://mariliagaiarsa.weebly.com/>`_
   (Entomology, UC Riverside)
+- `Jason Grout <https://jasongrout.org/>`_ (Scientific Software, Bloomberg)
 - `Aric Hagberg <http://aric.hagberg.org/>`_
   (Theoretical Division, Los Alamos National Laboratory)
 - `Chris Holdgraf <http://predictablynoisy.com/>`_
   (Berkeley Institute of Data Science, UC Berkeley)
+- `Paul Ivanov <http://pirsquared.org/>`_ (Scientific Software, Bloomberg)
 - `Caigui Jiang <https://sites.google.com/site/kaustjiangcaigui/home>`_
   (ICSI Vision Group, UC Berkeley)
 - `Rasmus Kyng <http://rasmuskyng.com/>`_

@@ -6,7 +6,7 @@ We meet 4:00--5:30 in Evans room 1011.
 Monday, February 26
 -------------------
 
-| **Vector representations of graphs and the maximum cut problem**
+| **Vector Representations of Graphs and the Maximum Cut Problem** (:download:`slides <../pdfs/2018-02-26-williamson.pdf>` | `video <https://www.youtube.com/watch?v=8SZPNzO5hQU>`_)
 | `David P. Williamson <http://www.davidpwilliamson.net/work>`_ (`Operations Research and Information Engineering <http://www.orie.cornell.edu/>`_, Cornell University)
 
 In this talk, I will look at a classical problem from graph theory of finding a

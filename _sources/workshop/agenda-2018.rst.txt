@@ -3,6 +3,8 @@
 Agenda
 ------
 
+:download:`Download program (PDF) <../pdfs/2018-03-27-workshop-program.pdf>`
+
 March 27
 ~~~~~~~~
 
