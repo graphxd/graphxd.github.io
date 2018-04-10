@@ -73,7 +73,7 @@ Invited Participants
 - `Aaron Schild <https://people.eecs.berkeley.edu/~aschild/>`_
   (Computer Science, UC Berkeley)
 - `Ludwig Schmidt <https://people.csail.mit.edu/ludwigs/>`_
-  (Computer Science, UC Berkeley)
+  (Computer Science, MIT)
 - `Dan Schult <http://www.colgate.edu/facultysearch/facultydirectory/dschult>`_
   (Mathematics, Colgate University)
 - `Camille Scott <http://www.camillescott.org/>`_
