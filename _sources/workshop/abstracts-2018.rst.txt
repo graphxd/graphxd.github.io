@@ -7,7 +7,7 @@ Abstracts
 Graphs and complex networks across domains
 ------------------------------------------
 
-| **K. Jarrod Millman**
+| **K. Jarrod Millman** (:download:`slides <../pdfs/2018-03-27-millman.pdf>` | `video <https://www.youtube.com/watch?v=kU90JyhHGr8&index=1&list=PLkE6kI81XLxUEsR9F6D_5N_lc0zxNuHpD>`_)
 
 Graphs arise in many fields.
 Progress in understanding graphs and developing new graph algorithms in a
@@ -23,7 +23,7 @@ In this talk, I will
 Understanding the ecology and evolution of communities through networks, part I
 -------------------------------------------------------------------------------
 
-| **Lauren Ponisio**
+| **Lauren Ponisio** (:download:`slides <../pdfs/2018-03-27-ponisio.pdf>`)
 
 Prior to the use of networks to model community-level interactions between
 species, ecology and evolution often focused on pair-wise interactions, which
@@ -46,7 +46,7 @@ also propel our understanding of ecological interactions forward.
 Understanding the ecology and evolution of communities through networks, part II
 --------------------------------------------------------------------------------
 
-| **Marília Palumbo Gaiarsa**
+| **Marília Palumbo Gaiarsa** (:download:`slides <../pdfs/2018-03-27-ponisio.pdf>`)
 
 Prior to the use of networks to model community-level interactions between
 species, ecology and evolution often focused on pair-wise interactions, which
@@ -69,7 +69,7 @@ also propel our understanding of ecological interactions forward.
 A history of spectral graph theory and its applications, part I
 ---------------------------------------------------------------
 
-| **Nick Ryder**
+| **Nick Ryder** (:download:`slides <../pdfs/2018-03-27-ryder.pdf>` | `video <https://www.youtube.com/watch?v=L5Y65QuZXAs&index=2&list=PLkE6kI81XLxUEsR9F6D_5N_lc0zxNuHpD>`_)
 
 Spectral graph theory gives an expression of the combinatorial properties of a
 graph using the eigenvalues and eigenvectors of matrices associated with the
@@ -85,7 +85,7 @@ in these areas.
 A history of spectral graph theory and its applications, part II
 ----------------------------------------------------------------
 
-| **Aaron Schild**
+| **Aaron Schild** (:download:`slides <../pdfs/2018-03-27-schild.pdf>` | `video <https://www.youtube.com/watch?v=8fuAcjJsT68&index=3&list=PLkE6kI81XLxUEsR9F6D_5N_lc0zxNuHpD>`_)
 
 Spectral graph theory started in the 80s, when Cheeger's inequality was used as
 a means for constructing sparse and balanced cuts in a graph. In the 2000s, our
@@ -119,7 +119,7 @@ to support them.
 Graph abstractions in computational genomics
 --------------------------------------------
 
-| **Aydın Buluç**
+| **Aydın Buluç** (:download:`slides <../pdfs/2018-03-27-buluc.pdf>` | `video <https://www.youtube.com/watch?v=FaoDkyLMgzo&index=4&list=PLkE6kI81XLxUEsR9F6D_5N_lc0zxNuHpD>`_)
 
 Relationships among entities in genomics, such as proteins, DNA sequences, or
 genetics markers, are often represented as graphs. Graph abstraction helped
@@ -135,7 +135,7 @@ graphs.
 Challenges for graph theory in human neuroscience
 -------------------------------------------------
 
-| **Katelyn Arnemann**
+| **Katelyn Arnemann** (:download:`slides <../pdfs/2018-03-27-arnemann.pdf>` | `video <https://www.youtube.com/watch?v=f_R6qhaiX70&index=5&list=PLkE6kI81XLxUEsR9F6D_5N_lc0zxNuHpD>`_)
 
 Graph theory has been applied widely to studies of the human brain, advancing
 understanding of cognition and neurological diseases. However, the application
@@ -153,7 +153,7 @@ and PET) to study human aging and Alzheimer's disease.
 Variational Perspective on Local Graph Clustering
 -------------------------------------------------
 
-| **Kimon Fountoulakis**
+| **Kimon Fountoulakis** (:download:`slides <../pdfs/2018-03-27-fountoulakis.pdf>`)
 
 Local spectral methods such as the Approximate Personalized PageRank (APPR)
 algorithm have proven to be a powerful tool for the analysis of large data
@@ -174,7 +174,7 @@ algorithms for processing today's large graphs.
 Sequence Assembly Graphs and their Construction
 -----------------------------------------------
 
-| **Camille Scott**
+| **Camille Scott** (:download:`slides <../pdfs/2018-03-28-scott.pdf>` | `video <https://www.youtube.com/watch?v=Ifa4qvtUeYs&index=6&list=PLkE6kI81XLxUEsR9F6D_5N_lc0zxNuHpD>`_)
 
 The advent of shotgun sequencing of DNA and RNA created the need for more
 efficient methods of simplifying massive and redundant string data. Assembly
@@ -191,7 +191,7 @@ graph construction into a streaming paradigm.
 How to Solve Problems on Graphs Using Linear Equations, and How to Solve Linear Equations Using Graphs
 ------------------------------------------------------------------------------------------------------
 
-| **Rasmus Kyng**
+| **Rasmus Kyng** (:download:`slides <../pdfs/2018-03-28-kyng.pdf>` | `video <https://www.youtube.com/watch?v=KqKVB_-8Qr4&index=7&list=PLkE6kI81XLxUEsR9F6D_5N_lc0zxNuHpD>`_)
 
 Graphs give us a simple model of a network. Based on this model, we can ask
 many interesting questions. For example, we can analyze social networks using
@@ -216,7 +216,7 @@ solvers for these linear equations more practical.
 Linear Regression with Graph Constraints
 ----------------------------------------
 
-| **Ludwig Schmidt**
+| **Ludwig Schmidt** (:download:`slides <../pdfs/2018-03-28-schmidt.pdf>` | `video <https://www.youtube.com/watch?v=gVjR0xSPJEM&index=8&list=PLkE6kI81XLxUEsR9F6D_5N_lc0zxNuHpD>`_)
 
 Linear regression is one of the core tools in data analysis. Over the past
 decade, we have seen significant progress by incorporating prior knowledge such

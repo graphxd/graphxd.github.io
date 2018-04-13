@@ -1,13 +1,11 @@
 March 27--29, 2018
 ==================
 
-`BIDS <https://bids.berkeley.edu>`_ will host a three day inaugural workshop in
-the spring of 2018.
-Topics will include interesting **data** represented as graphs,
-graph **algorithms**, as well as **software** for creating, manipulating,
-and studying the structure, dynamics, and functions of complex networks.
+During spring break (March 27–29, 2018), `BIDS <https://bids.berkeley.edu>`_
+hosted the first annual Graphs Across Domains (GraphXD) workshop.
 
 - :ref:`agenda-2018`
+- `Videos <https://www.youtube.com/watch?v=kU90JyhHGr8&index=1&list=PLkE6kI81XLxUEsR9F6D_5N_lc0zxNuHpD>`_
 - `Directions to BIDS <https://bids.berkeley.edu/about/directions-and-travel>`_
 
 Organizers
